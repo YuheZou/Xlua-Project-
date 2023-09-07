@@ -1,0 +1,1 @@
+Assets/BuildResources/UI\Prefabs\TestUI.prefab|ui\prefabs\testui.prefab.ab|Assets/BuildResources/UI/Prefabs/TestUI.prefab|Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
